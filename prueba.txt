@@ -1,3 +1,5 @@
 Esto es una prueba jhonatan tiene 50 años
 y esta aprendiendo a programar
 mañana se hablara de su vida laboral
+
+aprendiendo git 
